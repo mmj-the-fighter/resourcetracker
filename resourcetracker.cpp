@@ -26,6 +26,9 @@ add a '*'
 e.g. " ResourceTracker -r * "
 
 */
+
+//TODO: Avoid global variables.
+
 #include <Windows.h>
 #include <tchar.h>
 #include <iostream>

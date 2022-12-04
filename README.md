@@ -8,7 +8,8 @@ resourcetracker.cpp file and build the project.
 
 # For better workflow
 After building this file into an exe, store the exe into a folder  
-and add that folder path to Windows environment variables  
+and add that folder path to Windows environment variables.  
+Let `ResourceTracker` be the name of the exe.  
 
 # Usage
 Go to the directory you want then type  

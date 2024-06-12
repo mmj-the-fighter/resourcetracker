@@ -1,6 +1,7 @@
 # ResourceTracker
 A Windows command line utility for printing names of resources (pdf, docx, txt etc.) in a  directory.  
 It works recursively finding all resources in the directory and subdirectories.  
+Edit(12/06/2024): Added a version in C++17 which is cross platform
 
 # Building
 Make an empty VisualStudio console application project and add the   

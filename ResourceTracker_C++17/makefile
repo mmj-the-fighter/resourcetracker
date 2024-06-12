@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra
 
 SOURCES = main.cpp DirectoryWalker.hpp QuickProfiler.hpp
-EXECUTABLE = app
+EXECUTABLE = ResourceTracker
 
 all: $(EXECUTABLE)
 

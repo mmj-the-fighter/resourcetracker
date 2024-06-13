@@ -7,9 +7,9 @@ EXECUTABLE = ResourceTracker
 all: $(EXECUTABLE)
 
 $(EXECUTABLE): $(SOURCES)
-    $(CXX) $(CXXFLAGS) -o $(EXECUTABLE) $(SOURCES)
+	$(CXX) $(CXXFLAGS) -o $(EXECUTABLE) $(SOURCES)
 
 clean:
-    rm -f $(EXECUTABLE)
+	rm -f $(EXECUTABLE)
 
 .PHONY: all clean

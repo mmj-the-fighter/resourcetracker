@@ -4,6 +4,7 @@
 #include <filesystem> 
 #include <iostream> 
 #include <functional> 
+#include <algorithm>
 
 class DirectoryWalker
 {

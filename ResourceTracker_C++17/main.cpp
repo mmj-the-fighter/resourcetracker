@@ -2,6 +2,7 @@
 #include <unordered_set>
 #include <unordered_map>
 #include <iostream> 
+#include <algorithm>
 #include "DirectoryWalker.hpp"
 #include "QuickProfiler.hpp"
 
